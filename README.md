@@ -63,4 +63,4 @@ No wildcard characters allowed. Full case sensitive names needed.
 
 ## Contributors
 
-Maria DeSouza <maria.desouza@incentivenetworks.com>
+Maria DeSouza <maria.g.desouza@gmail.com>
