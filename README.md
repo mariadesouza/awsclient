@@ -60,6 +60,10 @@ No wildcard characters allowed. Full case sensitive names needed.
     Returns:
       []ELBInfo,
       error
+      
+## Reference
+
+https://aws.amazon.com/sdk-for-go/
 
 ## Contributors
 
